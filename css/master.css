@@ -14,3 +14,38 @@
     var(--zengine-navy-900) 100%
   );
 }
+.logo-bear {
+  fill: url(#zengineBearGradient);
+  stroke: var(--zengine-navy-900);
+  stroke-width: 4px;
+}
+
+.logo-bear-glow {
+  filter: drop-shadow(0 0 12px var(--zengine-glow-soft));
+}
+.logo-bear-img {
+  width: 220px;
+  filter: drop-shadow(0 0 14px var(--zengine-glow-soft));
+}
+:root {
+  --zengine-border-strong: 3px solid var(--zengine-navy-800);
+  --zengine-border-subtle: 1px solid rgba(20, 74, 115, 0.25);
+}
+
+.card {
+  border: var(--zengine-border-subtle);
+  border-radius: 14px;
+  background: var(--zengine-bg-mid);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+font-family: 'Inter', 'SF Pro Display', sans-serif;
+font-family: 'Orbitron', sans-serif;
+:root {
+  --zengine-font-primary: 'Inter', sans-serif;
+}
+
+body {
+  font-family: var(--zengine-font-primary);
+  background-color: var(--zengine-bg-dark);
+  color: var(--zengine-cyan-100);
+}

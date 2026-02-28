@@ -1,0 +1,10 @@
+.text-cyan { color: var(--zengine-cyan-300); }
+.text-navy { color: var(--zengine-navy-800); }
+
+.bg-cyan { background-color: var(--zengine-cyan-400); }
+.bg-dark { background-color: var(--zengine-bg-dark); }
+
+.rounded-xl { border-radius: 18px; }
+.shadow-glow { box-shadow: 0 0 25px var(--zengine-glow-soft); }
+
+.border-strong { border: var(--zengine-border-strong); }

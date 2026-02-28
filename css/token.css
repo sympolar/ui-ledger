@@ -1,0 +1,28 @@
+:root {
+
+  /* === PRIMARY CORE === */
+  --zengine-navy-900: #0E2A47;
+  --zengine-navy-800: #12395C;
+  --zengine-navy-700: #164A73;
+
+  /* === CYAN GRADIENT RANGE === */
+  --zengine-cyan-100: #CFEFFB;
+  --zengine-cyan-200: #A8DFF5;
+  --zengine-cyan-300: #7CC8E8;
+  --zengine-cyan-400: #4FAED6;
+  --zengine-cyan-500: #2D93C2;
+
+  /* === DEEP ACCENT === */
+  --zengine-deep-cyan-600: #1F6F99;
+  --zengine-deep-cyan-700: #155A7C;
+
+  /* === BACKGROUND SYSTEM === */
+  --zengine-bg-dark: #081826;
+  --zengine-bg-mid: #0F243A;
+  --zengine-bg-light: #F4FAFD;
+
+  /* === GLOW EFFECT === */
+  --zengine-glow-soft: rgba(79, 174, 214, 0.35);
+  --zengine-glow-strong: rgba(79, 174, 214, 0.6);
+
+}

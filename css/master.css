@@ -1,0 +1,16 @@
+.zengine-gradient-primary {
+  background: linear-gradient(
+    180deg,
+    var(--zengine-cyan-200) 0%,
+    var(--zengine-cyan-400) 55%,
+    var(--zengine-deep-cyan-600) 100%
+  );
+}
+
+.zengine-gradient-dark {
+  background: linear-gradient(
+    180deg,
+    var(--zengine-navy-700) 0%,
+    var(--zengine-navy-900) 100%
+  );
+}
